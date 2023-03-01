@@ -6,7 +6,7 @@
 ### 使用方法
 ``https://api.pocopota.com/icon-maker?size={size}&url={icon url}``
 ### パラメータ
-|name|descriptio|
-|----|----|----|
+|name|description|
+|----|----|
 |size|リサイズしたいサイズを指定|
 |url|編集したい画像URLを指定|
