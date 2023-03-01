@@ -3,6 +3,7 @@
 
 ## icon-maker API
 画像のリサイズ・円形切り取りを行うAPI.  
+出力はpng
 ### 使用方法
 ``https://api.pocopota.com/icon-maker?size={size}&url={icon url}``
 ### パラメータ
