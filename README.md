@@ -16,7 +16,7 @@
 任意のグラデーション画像を生成するAPI.  
 出力png
 ### 使用方法
-``https://api.pocopota.com/icon-maker?w={width}&h={height}&colors={colors}``
+``https://api.pocopota.com/hue-maker?w={width}&h={height}&colors={colors}``
 |name|required|description|
 |----|----|----|
 |width||画像の横幅. 初期は400|
