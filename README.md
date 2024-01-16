@@ -17,6 +17,7 @@
 出力png
 ### 使用方法
 ``https://api.pocopota.com/hue-maker?w={width}&h={height}&colors={colors}``
+### パラメータ
 |name|required|description|
 |----|----|----|
 |width||画像の横幅. 初期は400|
