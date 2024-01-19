@@ -1,4 +1,7 @@
 <?php
+// クロスサイト許可
+header("Access-Control-Allow-Origin: *");
+
 // キャッシュ無効化
 header( 'Expires: Thu, 01 Jan 1970 00:00:00 GMT' );
 header( 'Last-Modified: '.gmdate( 'D, d M Y H:i:s' ).' GMT' );
