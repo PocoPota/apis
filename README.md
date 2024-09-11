@@ -23,3 +23,7 @@
 |width||画像の横幅. 初期は400|
 |height||画像の縦幅. 初期は300|
 |colors||グラデーションに使用する色をコンマ「,」区切りで指定. カラーコードで#は除く. 複数色指定可|
+
+### 各種アイコン
+初期アイコン：``https://api.pocopota.com/icons/initial.png``  
+PocoPotaアイコン：``https://api.pocopota.com/icons/pocopota.png``
